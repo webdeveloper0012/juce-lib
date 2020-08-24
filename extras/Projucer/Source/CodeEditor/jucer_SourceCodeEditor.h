@@ -79,7 +79,7 @@ public:
 
         return {};
     }
-
+ 
     void reloadFromFile() override;
     bool save() override;
     bool saveAs() override;
