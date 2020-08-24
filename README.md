@@ -1,5 +1,5 @@
 ![alt text](https://d30pueezughrda.cloudfront.net/juce/JUCE_banner.png "JUCE")
-
+ 
 JUCE is an open-source cross-platform C++ application framework used for rapidly
 developing high quality desktop and mobile applications, including VST, AU (and AUv3),
 RTAS and AAX audio plug-ins. JUCE can be easily integrated with existing projects or can
